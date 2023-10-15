@@ -5,8 +5,8 @@ const Portfolio = () => {
   return (
     <div className="portfolio">
       <header>
-        <h1>Shreyash Joshi</h1>
-        <p>+91 7838549552 | shreyashjoshi3002@gmail.com</p>
+        <h1>Bhavya Yadav</h1>
+        <p>+91 8869895162 | yadavbhavya101@gmail.com</p>
       </header>
 
       <section className="education">
@@ -93,14 +93,14 @@ const Portfolio = () => {
             <ul>
               <li>English</li>
               <li>Hindi</li>
-              <li>Japanese</li>
+              <li>JGerman</li>
             </ul>
       </section>
       <section className="links">
         <h2>LINKS</h2>
         <ul>
-          <li><a href="https://www.linkedin.com/in/shreyash-joshi-1166b0220/">LinkedIn</a></li>
-          <li><a href="https://github.com/Godfathxx">Github</a></li>
+          <li><a href="https://www.linkedin.com/in/bhavya-yadav-b065ab269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a></li>
+          <li><a href="https://github.com/raobhavya01">Github</a></li>
         </ul>
       </section>
     
